@@ -23,8 +23,8 @@ const styles = StyleSheet.create({
   },
   text: {
     fontSize: 13,
-    fontWeight: '300', // Thin, soft font weight
-    color: '#888888',  // Muted text color
+    fontWeight: '500', // Medium weight for readability
+    color: '#6b7280',  // Muted text color
     letterSpacing: 2.5,
     textAlign: 'center',
   }
