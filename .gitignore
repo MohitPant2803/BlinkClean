@@ -1,0 +1,17 @@
+node_modules/
+.expo/
+dist/
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+
+# Native directories (for Expo managed workflow)
+android/
+ios/

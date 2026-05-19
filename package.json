@@ -1,0 +1,22 @@
+{
+  "name": "blinkclean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "expo/AppEntry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "@react-native-community/datetimepicker": "8.6.0",
+    "expo": "^55.0.0",
+    "expo-media-library": "^55.0.0",
+    "expo-status-bar": "^55.0.0",
+    "react": "19.2.0",
+    "react-native": "0.83.6",
+    "react-native-deck-swiper": "^2.0.17"
+  }
+}
